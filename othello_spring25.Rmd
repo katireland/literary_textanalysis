@@ -1,0 +1,49 @@
+---
+title: 'Macroanalysis: Othello'
+author: "Katie Ireland"
+date: "2025-02-13"
+output: html_document
+---
+
+# Quote for Consideration
+> “You shall know a word by the company it keeps.” – J.R. Firth
+
+# Part 1: Pre-Analysis Reflection
+
+1. **What themes do you expect to find in *Othello* when examined through text analysis?**  
+   Consider the major conflicts and issues in the play (e.g., jealousy, hatred, deception, love, power). What themes do you predict will emerge from a macroanalysis of the text? Why?
+
+2. **What words do you expect to be most prevalent?**  
+   Think about character dialogues, key speeches, and repeated motifs. What words or types of words (nouns, adjectives, verbs) do you expect to be frequent in *Othello*? Why?
+
+# Part 2: Computational Text Analysis Exploration
+
+3. **Word Frequency Analysis**  
+   - Using Voyant Tools, examine the most frequently used words in *Othello*.
+   - Compare your predictions from Question 2 to the actual results.
+   - What patterns emerge? Are any words more frequent than expected? Are any surprisingly rare?
+
+4. **Collocation & Concordance Analysis**  
+   - Select a few key words (e.g., “honest,” “blood,” “love,” “jealousy”) and analyze their surrounding words using the concordance feature in Voyant Tools.
+   - How do these words function in different contexts? Do they shift in meaning based on their surroundings?
+
+
+# Part 3: Interpretation & Discussion
+
+5. **How does text analysis reinforce or challenge traditional interpretations of *Othello*?**  
+   - Does computational analysis support well-known interpretations of the play’s themes and character dynamics?
+   - Are there any new insights that emerge from the data-driven approach?
+
+6. **Reflect on J.R. Firth’s quote.**  
+   - Based on your analysis, how does the concept of understanding words by their company apply to *Othello*?
+   - What does this suggest about Shakespeare’s use of language and meaning?
+
+# Part 4: Advanced Exploration- Pick one of the below options
+   - Compare themes associated with characters: Use Voyant’s Summary tool to compare the total word counts of the terms (and/or phrases) surrounding major characters (Othello, Iago, Desdemona, etc.). What does this reveal about their roles and influence in the play? How do these connect to larger themes in the play?
+
+   - Examine the Evolution of Themes Across Acts: Use the Trends tool in Voyant to track how frequently key terms (e.g., "honest," "jealousy," "love") appear across the duration of the play. Do certain themes become more dominant as the play progresses? What might this suggest about the development of the plot?
+
+---  
+**Instructions:** Complete this worksheet using Voyant Tools in groups of three and discuss your findings in class. Be prepared to present in your groups when we return together next Monday, February 24th to share insights on how computational methods enhance our understanding of Shakespeare’s language and themes in **Othello**.
+
+
